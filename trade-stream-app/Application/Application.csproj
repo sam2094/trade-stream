@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="CQRS\Partners\Commands\**" />
-    <EmbeddedResource Remove="CQRS\Partners\Commands\**" />
-    <None Remove="CQRS\Partners\Commands\**" />
+    <Compile Remove="CQRS\Currency\Commands\**" />
+    <EmbeddedResource Remove="CQRS\Currency\Commands\**" />
+    <None Remove="CQRS\Currency\Commands\**" />
   </ItemGroup>
 
   <ItemGroup>

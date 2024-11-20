@@ -13,6 +13,7 @@ using System.Linq;
 using Application.Middlewares;
 using API.Filters;
 using API.Middleware;
+using Application.BackgroundServices;
 
 namespace API;
 
